@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3700B3</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="fab_background">#E11111</color>
+    <color name="color_high_priority">#1B9517</color>
+    <color name="color_medium_priority">#F3DE57</color>
+    <color name="color_low_priority">#FB0404</color>
+    <color name="color_splash_background">#BAAB2C</color>
+    <color name="color_btn_ok">#2AC131</color>
+    <color name="color_btn_cancel">#EC1B1B</color>
+    <color name="color_main_background">#2B56AE</color>
+
+
+</resources>
